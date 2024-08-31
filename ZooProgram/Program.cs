@@ -35,6 +35,7 @@ zoo.AddAnimal(l);
 ShowMammals(zoo);
 Console.WriteLine("********************************");
 ShowBirds (zoo);
+Console.WriteLine("********************************");
 
 //After Change The Lion Age
 l.Age = 11;
